@@ -1,0 +1,41 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #111;
+  color: #f5f5f5;
+}
+section {
+  padding: 30px;
+  border-bottom: 1px solid #333;
+}
+h1, h2 {
+  color: #00ffc3;
+}
+.intro, ul {
+  margin-top: 10px;
+}
+textarea {
+  width: 90%;
+  height: 120px;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  background: #00ffc3;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background: #00c3a8;
+}
+#response {
+  margin-top: 10px;
+  color: #0f0;
+}
